@@ -11,3 +11,4 @@ personalised outreach, and updates a central job tracker.
 - Centralised application tracking in Google Sheets
 - Structured AI output for job-fit evaluation
 - Automated Gmail test delivery successfully validated
+  
