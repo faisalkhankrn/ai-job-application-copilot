@@ -207,8 +207,8 @@ Before uploading screenshots, blur or remove names, email addresses, tokens, spr
 **Faisal Khan K**  
 Master’s graduate in Data Science with experience in data analytics, operational analytics, reporting, and business-process improvement.
 
-- GitHub: Replace with your profile link
-- LinkedIn: Replace with your LinkedIn link
+- GitHub: https://github.com/faisalkhankrn
+- LinkedIn: www.linkedin.com/in/faisalkhank
 
 ## ⚠️ Disclaimer
 
