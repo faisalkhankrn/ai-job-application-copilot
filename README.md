@@ -205,7 +205,7 @@ Before uploading screenshots, blur or remove names, email addresses, tokens, spr
 ## 👤 Author
 
 **Faisal Khan K**  
-Master’s graduate/candidate in Data Science with experience in data analytics, operational analytics, reporting, and business-process improvement.
+Master’s graduate in Data Science with experience in data analytics, operational analytics, reporting, and business-process improvement.
 
 - GitHub: Replace with your profile link
 - LinkedIn: Replace with your LinkedIn link
