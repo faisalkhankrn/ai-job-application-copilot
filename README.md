@@ -1,14 +1,34 @@
-# AI Job Application Copilot
+# 03 — Hiring Team Outreach Agent
 
-An end-to-end n8n automation suite that discovers relevant analytics jobs,
-removes duplicates, evaluates job fit, prepares application drafts, supports
-personalised outreach, and updates a central job tracker.
+## Purpose
 
-## Results
+Support the identification of relevant hiring contacts, create personalised outreach, send approved messages with Gmail, and update outreach status in the tracker.
 
-- Automated collection and filtering of analytics vacancies
-- Duplicate prevention using job URL as the unique key
-- Centralised application tracking in Google Sheets
-- Structured AI output for job-fit evaluation
-- Automated Gmail test delivery successfully validated
-  
+## Planned/Current Workflow
+
+```text
+Read shortlisted application
+→ Build contact-search context
+→ Select relevant contact
+→ Generate personalised email
+→ Human review
+→ Gmail delivery
+→ Update contact and application status
+```
+
+## Responsible Use
+
+- Do not send bulk unsolicited messages.
+- Review recipients and content before delivery.
+- Respect privacy, platform rules, and applicable communication laws.
+- Keep an approval step before external emails.
+
+## Files to Add
+
+```text
+hiring-team-outreach-agent.json
+```
+
+## Status
+
+🚧 In development
