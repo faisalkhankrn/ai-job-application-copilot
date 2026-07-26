@@ -200,7 +200,6 @@ Add screenshots to the [`screenshots`](screenshots/) folder and replace this sec
 ![Email output](screenshots/email-output.png)
 ```
 
-Before uploading screenshots, blur or remove names, email addresses, tokens, spreadsheet IDs, and other personal information.
 
 ## 👤 Author
 
